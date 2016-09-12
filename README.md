@@ -1,1 +1,3 @@
-# ruby_practice
+# Ruby Practice
+
+Repo of online course/other practice assignments 
